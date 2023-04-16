@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id":1,
+            "name":"Iphone 12 Pro",
+            "desc":"Iphone 12th Generation",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://www.jiomart.com/images/product/420x420/491901537/apple-iphone-12-128-gb-green-digital-o491901537-p590441379-0-202108121852.jpeg"
+        },
+        {
+            "id":2,
+            "name":"S21 Ultra",
+            "desc":"Samsung S21 Ultra with 100x zoom power",
+            "price":699,
+            "color":"e0bfae",
+            "image":"https://m.media-amazon.com/images/I/917nPCOw9-L._SX522_.jpg"
+        },
+        {
+            "id":3,
+            "name":"Oppo F12",
+            "desc":"Oppo F12 with best camera quality",
+            "price":299,
+            "color":"544ee4",
+            "image":"https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/f21_pro/listpage/listpage-SunsetOrange-427_600-pc.png"
+        },
+        {
+            "id":4,
+            "name":"Poco M2 Pro",
+            "desc":"Poco M2 Pro new generation",
+            "price":99,
+            "color":"e3e4e9",
+            "image":"https://xiaomiui.net/wp-content/themes/xiaomiuiwp/assets/phones/devicephotos/poco-m2-pro.png"
+        },
+        {
+            "id":5,
+            "name":"Oppo Reno 5g",
+            "desc":"Oppo Reno 5g edition",
+            "price":499,
+            "color":"e3e4e9",
+            "image":"https://image.oppo.com/content/dam/oppo/in/mkt/smartphone/reno-series/reno6-5g/reno6-5g-warmup-hero-main-sm-320.jpg"
+        },
+        {
+            "id":6,
+            "name":"Playstation 5",
+            "desc":"PS5",
+            "price":899,
+            "color":"7c95eb",
+            "image":"https://www.shutterstock.com/image-illustration/anapa-russian-federation-25-november-260nw-1861221115.jpg"
+        },
+        {
+            "id":7,
+            "name":"Airpods Pro",
+            "desc":"New Generation Airpods",
+            "price":399,
+            "color":"f73984",
+            "image":"https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021.jpg.news_app_ed.jpg"
+        },
+        {
+            "id":8,
+            "name":"Nintendo Switch",
+            "desc":"Gaming Console",
+            "price":1099,
+            "color":"f73984",
+            "image":"https://i.gadgets360cdn.com/products/large/1549526400_635_nintendo_switch_db.jpg?downsize=*:360"
+        }
+    ]
+}
