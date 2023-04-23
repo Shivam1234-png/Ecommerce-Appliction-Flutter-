@@ -1,7 +1,10 @@
 # flutter_catalog
 
-A new Flutter project.
-
+An Ecommerce Application which has 4 categories of products : ELECTRONICS, FASHION, VEGETABLES and BOOKS.
+Ecah of these categories have 8 products in them.
+User can navigate through these categories and select products, accordingly those will be added to his/her cart. 
+He/She can now see the total value of the cart and also remove products from the cart.
+Buying facility will be added very soon in this application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
