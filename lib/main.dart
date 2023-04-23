@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_catalog/pages/book_page.dart';
 import 'package:flutter_catalog/pages/cart_page.dart';
+import 'package:flutter_catalog/pages/faishon_page.dart';
 import 'package:flutter_catalog/pages/home_page.dart';
+import 'package:flutter_catalog/pages/initialhomepage.dart';
 import 'package:flutter_catalog/pages/login_page.dart';
 import 'package:flutter_catalog/utils/routes.dart';
 import 'package:flutter_catalog/widgets/themes.dart';
@@ -30,6 +33,9 @@ class MyApp extends StatelessWidget {
         MyRoutes.homeRoute:(context) => HomePage(),
         MyRoutes.loginRoute:(context) => LoginPage(),
         MyRoutes.cartRoute:(context) => CartPage(),
+        MyRoutes.initialHomeRoute:(context) => InitialHomePage(),
+        MyRoutes.fashionRoute:(context) => FashionPage(),
+        MyRoutes.bookRoute:(context) => BooksPage(),
       },
     );
   }

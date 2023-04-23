@@ -1,0 +1,68 @@
+{
+    "products_book": [
+        {
+            "id":1,
+            "name":"2 States",
+            "desc":"A Rom Com written by Chetan Bhagat",
+            "price":69,
+            "color":"#33505a",
+            "image":"https://m.media-amazon.com/images/I/71as0QgjDaL.jpg"
+        },
+        {
+            "id":2,
+            "name":"1984 by George Orwell",
+            "desc":"A must read novel.",
+            "price":89,
+            "color":"e0bfae",
+            "image":"https://kbimages1-a.akamaihd.net/c9472126-7f96-402d-ba57-5ba4c0f4b238/1200/1200/False/nineteen-eighty-four-1984-george.jpg"
+        },
+        {
+            "id":3,
+            "name":"To Kill a Mockingbird by Harper Lee",
+            "desc":"A must read novel.",
+            "price":99,
+            "color":"544ee4",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+        },
+        {
+            "id":4,
+            "name":"Pride and Prejudice by Jane Austen",
+            "desc":"A must read novel.",
+            "price":79,
+            "color":"e3e4e9",
+            "image":"https://kbimages1-a.akamaihd.net/de6acb1e-cc79-4aa7-a7f4-8cfce113b358/1200/1200/False/pride-prejudice-20.jpg"
+        },
+        {
+            "id":5,
+            "name":"The Great Gatsby by F. Scott Fitzgerald",
+            "desc":"A must read novel.",
+            "price":109,
+            "color":"e3e4e9",
+            "image":"https://kbimages1-a.akamaihd.net/c5742da9-e63f-4ed5-acb6-074fab5e3f41/1200/1200/False/the-great-gatsby-11.jpg"
+        },
+        {
+            "id":6,
+            "name":"Beloved by Toni Morrison",
+            "desc":"A must read novel.",
+            "price":79,
+            "color":"7c95eb",
+            "image":"https://pwrites.princeton.edu/wp-content/uploads/2019/09/1031607.jpg"
+        },
+        {
+            "id":7,
+            "name":"The Catcher in the Rye by J.D. Salinger:",
+            "desc":"A must read novel.",
+            "price":199,
+            "color":"f73984",
+            "image":"https://m.media-amazon.com/images/I/7108sdEUEGL.jpg"
+        },
+        {
+            "id":8,
+            "name":"The Handmaid's Tale by Margaret Atwood",
+            "desc":"A must read novel.",
+            "price":56,
+            "color":"f73984",
+            "image":"https://m.media-amazon.com/images/I/71mfL5OGNNL.jpg"
+        }
+    ]
+}

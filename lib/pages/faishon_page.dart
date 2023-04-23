@@ -16,14 +16,12 @@ import 'package:flutter_catalog/widgets/themes.dart';
 import '../models/catalog.dart';
 import '../widgets/home_widgets/catalog_header.dart';
 import '../widgets/home_widgets/catalog_list.dart';
-class HomePage extends StatefulWidget {
-  const HomePage({super.key});
-
+class FashionPage extends StatefulWidget {
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<FashionPage> createState() => _FashionPageState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _FashionPageState extends State<FashionPage>{
   @override
   void initState() {
     // TODO: implement initState
@@ -32,9 +30,9 @@ class _HomePageState extends State<HomePage> {
   }
   loadData() async{
     await Future.delayed(Duration(seconds: 2));
-    final catalogJson=await rootBundle.loadString("assets/files/catalog.json");
+    final catalogJson=await rootBundle.loadString("assets/files/catalogfash.json");
     final decodedData=jsonDecode(catalogJson);
-    var productsData=decodedData["products"];
+    var productsData=decodedData["products_fashion"];
     CatalogModel.items=List.from(productsData).map<Item>((item) => Item.fromMap(item)).toList();
     setState(() {});
   }
@@ -68,4 +66,7 @@ class _HomePageState extends State<HomePage> {
       );
   }
 }
+
+
+
 

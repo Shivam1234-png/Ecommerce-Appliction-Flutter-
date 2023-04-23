@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id":1,
+            "name":"Cabbage",
+            "desc":"Healthy and Fresh Cabbage",
+            "price":4,
+            "color":"#33505a",
+            "image":"https://images.services.kitchenstories.io/d6GRm-YwjTL37AenQyIUXnjS2xE=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/A970-photo-final-03.jpg"
+        },
+        {
+            "id":2,
+            "name":"Brinjal",
+            "desc":"Eggplant",
+            "price":7,
+            "color":"e0bfae",
+            "image":"https://m.media-amazon.com/images/I/51JbI+BTW7L._SL1000_.jpg"
+        },
+        {
+            "id":3,
+            "name":"Lady Finger",
+            "desc":"Try these...",
+            "price":9,
+            "color":"544ee4",
+            "image":"https://www.shutterstock.com/image-photo/fresh-okra-isolated-on-white-260nw-721408930.jpg"
+        },
+        {
+            "id":4,
+            "name":"Tomato",
+            "desc":"As red as it can get!",
+            "price":4,
+            "color":"e3e4e9",
+            "image":"https://www.shutterstock.com/image-photo/red-tomato-isolated-on-white-260nw-572014885.jpg"
+        },
+        {
+            "id":5,
+            "name":"Potato",
+            "desc":"Everyone's Go to vegetable.",
+            "price":1,
+            "color":"e3e4e9",
+            "image":"https://www.jiomart.com/images/product/600x600/590000090/potato-1-kg-product-images-o590000090-p590000090-0-202207291750.jpg"
+        },
+        {
+            "id":6,
+            "name":"Cauliflower",
+            "desc":"A Must Try Cauliflower!",
+            "price":3,
+            "color":"7c95eb",
+            "image":"https://m.media-amazon.com/images/I/91EdPVzD99L._SX466_.jpg"
+        },
+        {
+            "id":7,
+            "name":"Spinach",
+            "desc":"Healthy and Fresh Spinach",
+            "price":5,
+            "color":"f73984",
+            "image":"https://www.bigbasket.com/media/uploads/p/l/40138448_3-fresho-baby-spinach.jpg"
+        },
+        {
+            "id":8,
+            "name":"Pumpkin",
+            "desc":"Nutritious Pumpkin",
+            "price":4,
+            "color":"f73984",
+            "image":"https://images.immediate.co.uk/production/volatile/sites/30/2020/02/pumpkin-3f3d894.jpg?quality=90&resize=556,505"
+        }
+    ]
+}

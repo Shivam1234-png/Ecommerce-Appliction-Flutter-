@@ -1,0 +1,68 @@
+{
+    "products_fashion": [
+        {
+            "id":1,
+            "name":"Leather Jacket",
+            "desc":"A stylish and edgy outerwear option that adds a touch of rebellion to any outfit.",
+            "price":169,
+            "color":"#33505a",
+            "image":"https://tiimg.tistatic.com/fp/1/006/657/comfortable-genuine-leather-jacket-625.jpg"
+        },
+        {
+            "id":2,
+            "name":"High Heels",
+            "desc":" Elevate your style with a pair of these classic shoes that elongate your legs.",
+            "price":58,
+            "color":"e0bfae",
+            "image":"https://m.media-amazon.com/images/I/61KGo+NxHnL._UL1500_.jpg"
+        },
+        {
+            "id":3,
+            "name":"High-waisted Jeans",
+            "desc":"a flattering and trendy denim style that accentuates the waist and elongates the legs.",
+            "price":89,
+            "color":"544ee4",
+            "image":"https://www.shutterstock.com/image-photo/beautiful-girl-white-tshirt-high-600w-477516448.jpg"
+        },
+        {
+            "id":4,
+            "name":"Sneakers",
+            "desc":"Comfortable and versatile footwear that can be worn with casual or sporty outfits.",
+            "price":158,
+            "color":"e3e4e9",
+            "image":"https://m.media-amazon.com/images/I/71bAepMLVVL._UL1500_.jpg"
+        },
+        {
+            "id":5,
+            "name":"Crossbody Bag",
+            "desc":"A practical and stylish handbag that leaves your hands free..",
+            "price":67,
+            "color":"e3e4e9",
+            "image":"https://m.media-amazon.com/images/I/712lPf6x6wL._UL1500_.jpg"
+        },
+        {
+            "id":6,
+            "name":"Sunglasses",
+            "desc":"a must-have accessory that protects your eyes.",
+            "price":97,
+            "color":"7c95eb",
+            "image":"https://m.media-amazon.com/images/I/5105ChFkWeL._UL1500_.jpg"
+        },
+        {
+            "id":7,
+            "name":"Statement Jewelry",
+            "desc":"bold and eye-catching jewelry.",
+            "price":1999,
+            "color":"f73984",
+            "image":"https://www.shutterstock.com/image-photo/statement-necklace-on-white-mannequin-260nw-2272158025.jpg"
+        },
+        {
+            "id":8,
+            "name":"Scarf",
+            "desc":"A versatile accessory that can add warmth and style to any outfit.",
+            "price":19,
+            "color":"f73984",
+            "image":"https://m.media-amazon.com/images/I/71wNlNEl80L._UL1500_.jpg"
+        }
+    ]
+}
